@@ -2,21 +2,19 @@
 layout: homepage
 ---
 
-## About Me
+## 자기소개
 
-I am a Ph.D. student at ...
+안녕하세요. 근현대 한국소설을 공부하는 정성훈입니다.
+근현대 한국소설에 나타난 공간의 문제(로컬리티, 모빌리티)와 번역의 문제에 관심이 있습니다.
 
-## Research Interests
+## 수행 중인 연구
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **공간:** 1930~40년대 모더니즘 문학과 로컬의 관계
+- **번역:** 식민지기 한국문학의 번역의 수행성
 
-## News
+## 최신 소식
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **2024년 4월:** 논문 「『문장(文章)』의 번역 양상과 그 의미」를 발표했습니다(『한국현대문학연구』 72)
 
 {% include_relative _includes/publications.md %}
 
