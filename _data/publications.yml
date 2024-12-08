@@ -4,19 +4,17 @@ main:
     authors: 정성훈
     conference_short: 
     conference: 『한국현대문학연구』 72, 2024. 4.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    link: https://www.riss.kr/link?id=A109059176
+    pdf: ./assets/files/정성훈(2024)_『문장(文章)』의 번역 양상과 그 의미.pdf
+    page: https://www.riss.kr/link?id=A109059176
     bibtex: 
     image: ./assets/img/teaser_example_2.png
     notes: 
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+  - title: 정인택의 문학과 도쿄(東京): ‘미로’로서의 도쿄와 그로부터의 탈출
+    authors: 정성훈
+    conference_short: 
+    conference: 『구보학보』 33, 2023. 4.
+    pdf: ./assets/files/정성훈(2023)_정인택의 문학과 도쿄(東京).pdf
+    page: https://www.riss.kr/link?id=A108579980
+    notes: 
     image: ./assets/img/teaser_example.png
