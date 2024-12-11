@@ -4,7 +4,7 @@ main:
     authors: 정성훈
     conference_short: 
     conference: 『한국현대문학연구』 72, 2024. 4.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: ./assets/files/article_2024a.pdf
     page: https://www.riss.kr/link?id=A109059176
     bibtex: 
     image: ./assets/img/teaser_example_2.png
@@ -14,7 +14,7 @@ main:
     authors: 정성훈
     conference_short: 
     conference: 『구보학보』 33, 2023. 4.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: ./assets/files/article_2023a.pdf
     code: 
     page: https://www.riss.kr/link?id=A108579980
     bibtex: 
